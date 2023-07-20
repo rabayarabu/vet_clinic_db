@@ -1,4 +1,5 @@
 
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -7,27 +8,25 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
+  <!-- - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
+<!-- - [❓ FAQ](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Vet-Clinic-DB] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Vet-Clinic-DB]** is a website for testing PostgreSQL, while creating a table, inserting data and querying data.
 
@@ -80,15 +79,21 @@
 
 <!-- GETTING STARTED -->
 
-<!-- ## 💻 Getting Started <a name="getting-started"></a>
+## Getting Started
 
-> Describe how a new developer could make use of your project.
+This repository includes files with plain SQL that can be used to recreate a database:
 
-To get a local copy up and running, follow these steps.
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+
+
+
+<!-- To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: -->
+In order to run this project you need: --> -->
 
 <!--
 Example command:
@@ -168,8 +173,8 @@ Example:
 
 👤 **Rabaya Rabu**
 
-- GitHub: [@rabayarabu](https://github.com/githubhandle)
-- Twitter: [@rabaya_rabu](https://twitter.com/twitterhandle)
+- GitHub: [@rabayarabu](https://github.com/rabayarabu)
+- Twitter: [@rabaya_rabu](https://twitter.com/rabaya_rabu)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rabaya-rabu-142721169/)
 
 <!-- 👤 **Author2**
@@ -183,8 +188,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[join table]**
 <!-- - [ ] **[new_feature_2]**
@@ -239,7 +242,5 @@ I would like to thank Microverse and the whole team.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
