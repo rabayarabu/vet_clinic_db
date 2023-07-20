@@ -8,21 +8,21 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
+  <!-- - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+<!-- - [❓ FAQ](#faq) -->
+<!-- - [📝 License](#license) -->
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -173,8 +173,8 @@ Example:
 
 👤 **Rabaya Rabu**
 
-- GitHub: [@rabayarabu](https://github.com/githubhandle)
-- Twitter: [@rabaya_rabu](https://twitter.com/twitterhandle)
+- GitHub: [@rabayarabu](https://github.com/rabayarabu)
+- Twitter: [@rabaya_rabu](https://twitter.com/rabaya_rabu)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rabaya-rabu-142721169/)
 
 <!-- 👤 **Author2**
@@ -239,8 +239,8 @@ I would like to thank Microverse and the whole team.
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+<!-- ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
