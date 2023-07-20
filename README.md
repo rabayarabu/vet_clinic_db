@@ -22,7 +22,7 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 <!-- - [❓ FAQ](#faq) -->
-<!-- - [📝 License](#license) -->
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -239,8 +239,8 @@ I would like to thank Microverse and the whole team.
 
 <!-- LICENSE -->
 
-<!-- ## 📝 License <a name="license"></a>
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
