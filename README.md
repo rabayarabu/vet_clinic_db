@@ -1,10 +1,4 @@
-## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <!-- TABLE OF CONTENTS -->
 
@@ -85,9 +79,15 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- GETTING STARTED -->
 
-<!-- ## 💻 Getting Started <a name="getting-started"></a>
+## Getting Started
 
-> Describe how a new developer could make use of your project.
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+
+
 
 To get a local copy up and running, follow these steps.
 
