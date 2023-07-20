@@ -89,11 +89,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 
 
-To get a local copy up and running, follow these steps.
+<!-- To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: -->
+In order to run this project you need: --> -->
 
 <!--
 Example command:
