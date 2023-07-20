@@ -1,3 +1,10 @@
+## Getting Started
+
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 <!-- TABLE OF CONTENTS -->
 
@@ -26,8 +33,6 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Vet-Clinic-DB] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Vet-Clinic-DB]** is a website for testing PostgreSQL, while creating a table, inserting data and querying data.
 
@@ -184,8 +189,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[join table]**
 <!-- - [ ] **[new_feature_2]**
 - [ ] **[new_feature_3]** -->
@@ -239,7 +242,5 @@ I would like to thank Microverse and the whole team.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
