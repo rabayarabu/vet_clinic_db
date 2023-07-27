@@ -1,4 +1,4 @@
-
+<img src="drawSQL-vet-clinic-schema-diagram.png" alt="schema-diagram" title="Optional title">
 
 <!-- TABLE OF CONTENTS -->
 
