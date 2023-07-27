@@ -72,7 +72,11 @@ CREATE TABLE visits(
 
 ALTER TABLE visits DROP CONSTRAINT visits_pkey;
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+    /* Visits Table */
 CREATE INDEX visits_animal_id_asc ON visits(animal_id ASC);
 CREATE INDEX visits_vet_id_asc ON visits(vet_id ASC);
 CREATE INDEX visits_date_of_visit_asc ON visits(date_of_visit ASC);
+
+    /* Owners Table */
 CREATE INDEX owners_email_asc ON owners(email ASC);

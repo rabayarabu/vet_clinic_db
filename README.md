@@ -4,23 +4,19 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  <!-- - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment) -->
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Vet-Clinic-DB\] ](#-vet-clinic-db-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [Getting Started](#getting-started)
+    - [Setup](#setup)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 <!-- - [❓ FAQ](#faq) -->
 - [📝 License](#license)
 
@@ -177,11 +173,10 @@ Example:
 - Twitter: [@rabaya_rabu](https://twitter.com/rabaya_rabu)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/rabaya-rabu-142721169/)
 
-<!-- 👤 **Author2**
+👤 **Sungabanja Thawethe**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
+- GitHub: [@Sunga12](https://github.com/sunga12)
+- LinkedIn: [Sungabanja Thawethe](https://linkedin.com/in/sungabanja-thawethe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
